@@ -1,7 +1,7 @@
 let chalk = require("chalk");
 const gradient = require('gradient-string');
 let  a = 5;
-let name = "Greg";
+let name = "Mafioso";
 let b = 10;
 if(a==b)
 {
