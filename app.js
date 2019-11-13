@@ -35,7 +35,7 @@ languages.forEach(lang => {
 let personInfo = {
     name : "Mafioso",
     surname : "ynwa",
-    email : "mafynwa@gmail.com",
+    email : "maf@maf.com",
     city : "Thessaloniki",
     country : "Greece"
 };
